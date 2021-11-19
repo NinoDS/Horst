@@ -1,3 +1,9 @@
+mod vm;
+/*
+mod parser;
+mod compiler;
+*/
+
 #[cfg(test)]
 mod tests {
     #[test]
